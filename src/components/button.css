@@ -1,0 +1,29 @@
+.btn {
+  padding: 2px;
+  margin: 5px;
+  background-color: green;
+  color: #fff;
+  cursor: no-drop;
+}
+.buttonClass {
+  border: none;
+  font-size: 10px;
+  padding: 6px;
+  margin: 4px;
+  cursor: pointer;
+  border-radius: 4px;
+  outline: none;
+  font-weight: bold;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button.active {
+  background-color: green;
+  color: #fff;
+}
+.classic {
+  background-color: red;
+  color: #fff;
+}
